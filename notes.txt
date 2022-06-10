@@ -1,0 +1,16 @@
+what is spring ?
+what/why is framework?
+what/why is design pattern? 
+single design pattern? 
+
+IoC container? 
+types of ioc container?
+ApplicationContext -> how many child we have? [ClassPathXmlApplication] 
+
+what is injection? DI -> IOC  
+types of injection ? 
+when to use setter injection and when to use constructor injection?
+
+init-method
+default-init-method 
+bean -> spring.xml 

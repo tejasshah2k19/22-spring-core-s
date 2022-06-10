@@ -28,7 +28,6 @@ public class StartIOC {
 		UserDao uDao2 = context.getBean("userDao", UserDao.class);
 		System.out.println(uDao1);// hashcode
 		System.out.println(uDao2);// hashcode
-
 //		UserDao u1 = new UserDao();
 //		UserDao u2 = new UserDao();
 //		System.out.println(u1);
